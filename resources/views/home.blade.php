@@ -6,7 +6,7 @@
 @section('content')
     <div class="row">
         <article class="col s12">
-            <div class="card-panel teal lighten-2">This is a card panel with a teal lighten-2 class</div>
+            <div class="card-panel teal lighten-2">This is a card panel with a teal lighten-2 class - OK</div>
         </article>
     </div>
 
